@@ -48,6 +48,8 @@ And then you'll need to modify the database configuration in settings.py to this
     }
 	}
 
+ The back-end will be reached by localhost:8001 afterwards.
+
 ### Manually:
 
 First, you'll need to download the repository to your computer, you can do it by either clicking download or using in the terminal
