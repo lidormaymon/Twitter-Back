@@ -1,6 +1,7 @@
 # React Twitter Back
 
 <p>This is the backend code of my Twitter clone project, to use the fronted you can find it here https://github.com/lidormaymon/Twitter-Front </p>
+<p>Credentials for admin user are: Username:admin Password:123</p>
 
 ## Features:
 <ul>
